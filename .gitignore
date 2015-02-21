@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /vendor
 /node_modules
 .env
+=======
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+>>>>>>> 7ab7f17921aa65ca39e01c660fcc06622d8acfff
